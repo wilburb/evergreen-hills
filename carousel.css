@@ -33,6 +33,9 @@ body {
   width: auto;
 }
 
+.navbar {
+  padding-bottom: 30px;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
